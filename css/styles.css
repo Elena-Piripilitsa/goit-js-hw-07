@@ -25,3 +25,7 @@ ul img {
 h2.hw {
   color: teal;
 }
+
+div#boxes {
+  display: flex;
+}
